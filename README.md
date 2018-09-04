@@ -14,3 +14,15 @@ npm run dev
 ```
 #### 技术栈
 vue + vue-router + webpack + elementui
+
+### 效果：
+#### pc端：
+![pc_one](https://github.com/HolyZheng/Backstage-management-system/blob/master/giF/pc_one_.gif)
+![pc_two](https://github.com/HolyZheng/Backstage-management-system/blob/master/giF/pc_two.gif)
+![pc_three](https://github.com/HolyZheng/Backstage-management-system/blob/master/giF/pc.gif)
+#### 移动端：
+![mobile_one](https://github.com/HolyZheng/Backstage-management-system/blob/master/giF/mobile_one.gif)
+
+![mobile_one](https://github.com/HolyZheng/Backstage-management-system/blob/master/giF/mobile_two.gif) 
+
+![mobile_one](https://github.com/HolyZheng/Backstage-management-system/blob/master/giF/mobile_three.gif)
